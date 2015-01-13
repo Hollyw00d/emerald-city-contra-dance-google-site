@@ -20,12 +20,6 @@ $RECYCLE.BIN/
 *~
 *.bak
 
-# Images
-*.png
-*.gif
-*.jpg
-*.bmp
-*.svg
 
 
 
@@ -75,5 +69,3 @@ sitemap.backup.xml
 /backup-db
 /crayon-syntax-highlighter
 /wp-content/plugins/crayon-syntax-highlighter
-/images
-/img
